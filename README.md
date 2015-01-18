@@ -1,6 +1,6 @@
 # CS Literature of the Day
 
-I like computer science. That's why I'm [tweeting](https://twitter.com/tyler_treat) a new piece of CS literature every day with the hashtag #CSLOTD. Some people don't like newfangled social media, so I'm maintaining a curated repository of the material here.
+I like computer science. That's why I'm [tweeting](https://twitter.com/search?f=realtime&q=%23CSLOTD&src=typd) a new piece of CS literature every day with the hashtag #CSLOTD. Some people don't like newfangled social media, so I'm maintaining a curated repository of the material here.
 
 ## What?
 
