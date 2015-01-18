@@ -10,7 +10,7 @@ Licensing and related legalese is confusing and boring. This repo doesn't host a
 
 ## Prior Art
 
-[Papers We Love](http://paperswelove.org/) is an awesome community with a collection of cool research papers. Check them out.
+[Papers We Love](http://paperswelove.org/) is an awesome community with a collection of cool academic papers. Check them out.
 
 ## Contributing
 
