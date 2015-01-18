@@ -18,4 +18,4 @@ If you know of an interesting piece of CS literature which you think should be i
 
 ## Disclaimer
 
-I'm doing this because I'm enthusiastic about CS. I reserve the right to stop doing it at any time or miss days for whatever reason. I also tweet things that *I* think are interesting. If you don't find them interesting, that's your problem. As such, I reserve the right to reject submissions if I don't find them interesting enough to include. I have pretty low standards though.
+I'm doing this because I'm enthusiastic about CS. I reserve the right to stop doing it at any time or miss days for whatever reason. I also tweet things that *I* think are interesting. If you don't find them interesting, that's your problem. As such, I reserve the right to reject submissions if I don't find them interesting enough to include. I have pretty low standards though. :)
