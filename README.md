@@ -6,7 +6,7 @@ I like computer science. That's why I'm [tweeting](https://twitter.com/tyler_tre
 
 Each day, I will tweet a link to an interesting piece of CS literature. I use "literature" to mean research paper, white paper, talk, slide deck, blog post, or really any thought-provoking content which is in the realm of computer science.
 
-Licensing and related legalese is confusing and boring. This repo don't host any material, it just provides links to them. If you find a broken link, file an issue or open a PR.
+Licensing and related legalese is confusing and boring. This repo doesn't host any material, it just provides links to them. If you find a broken link, file an issue or open a PR.
 
 ## Prior Art
 
