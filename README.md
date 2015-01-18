@@ -14,7 +14,7 @@ Licensing and related legalese is confusing and boring. This repo doesn't host a
 
 ## Contributing
 
-If you know of an interesting piece of CS literature which you think should be included, feel free to submit it via a PR.
+If you know of an interesting piece of CS literature which you think should be included, feel free to submit it via a PR. Just add the title and link to backlog.md on a new line. I'm still not sure if this makes the most sense for managing contributions. Maybe just creating an issue with the link is better? I'm always open to suggestions.
 
 ## Disclaimer
 
