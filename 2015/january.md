@@ -4,3 +4,4 @@
 | 01/19/2015 | [No Silver Bullet—Essence and Accidents in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf) | Software Engineering | 1986
 | 01/20/2015 | [Diets for Fat Sets](http://web.engr.oregonstate.edu/~erwig/papers/Diet_JFP98.pdf) | Data Structures | 1993
 | 01/21/2015 | [Confluently Persistent Sets and Maps](http://arxiv.org/pdf/1301.3388v1.pdf) | Data Structures | 2013
+| 01/22/2015 | [The Perils of Good Abstractions](http://www.addsimplicity.com/adding_simplicity_an_engi/2006/12/the_perils_of_g.html) | Software Engineering | 2006
