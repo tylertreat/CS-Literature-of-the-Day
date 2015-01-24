@@ -6,3 +6,4 @@
 | 01/21/2015 | [Confluently Persistent Sets and Maps](http://arxiv.org/pdf/1301.3388v1.pdf) | Data Structures | 2013
 | 01/22/2015 | [The Perils of Good Abstractions](http://www.addsimplicity.com/adding_simplicity_an_engi/2006/12/the_perils_of_g.html) | Software Engineering | 2006
 | 01/23/2015 | [Persistent Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2005/lecture-notes/persistent.pdf) | Data Structures | 2005
+| 01/24/2015 | [Planar Point Location Using Persistent Search Trees](http://www.link.cs.cmu.edu/15859-f07/papers/point-location.pdf) | Data Structures | 1986
