@@ -9,3 +9,4 @@
 | 01/24/2015 | [Planar Point Location Using Persistent Search Trees](http://www.link.cs.cmu.edu/15859-f07/papers/point-location.pdf) | Data Structures | 1986
 | 01/25/2015 | [Outwards from the Middle of the Maze](http://youtu.be/ggCffvKEJmQ) | Distributed Systems | 2014
 | 01/26/2015 | [Immutability Changes Everything](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf) | Databases | 2015
+| 01/27/2015 | [Fast Mergeable Integer Maps](http://ittc.ku.edu/~andygill/papers/IntMap98.pdf) | Data Structures | 1998
