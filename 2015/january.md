@@ -10,3 +10,4 @@
 | 01/25/2015 | [Outwards from the Middle of the Maze](http://youtu.be/ggCffvKEJmQ) | Distributed Systems | 2014
 | 01/26/2015 | [Immutability Changes Everything](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf) | Databases | 2015
 | 01/27/2015 | [Fast Mergeable Integer Maps](http://ittc.ku.edu/~andygill/papers/IntMap98.pdf) | Data Structures | 1998
+| 01/28/2015 | [Efficient Locking for Concurrent Operations on B-Trees](http://www.csd.uoc.gr/~hy460/pdf/p650-lehman.pdf) | Databases | 1981
