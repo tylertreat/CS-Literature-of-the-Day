@@ -11,3 +11,4 @@
 | 01/26/2015 | [Immutability Changes Everything](http://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf) | Databases | 2015
 | 01/27/2015 | [Fast Mergeable Integer Maps](http://ittc.ku.edu/~andygill/papers/IntMap98.pdf) | Data Structures | 1998
 | 01/28/2015 | [Efficient Locking for Concurrent Operations on B-Trees](http://www.csd.uoc.gr/~hy460/pdf/p650-lehman.pdf) | Databases | 1981
+| 01/29/2015 | [Concurrent Tries with Efficient Non-Blocking Snapshots](https://axel22.github.io/resources/docs/ctries-snapshot.pdf) ([slides](https://axel22.github.io/resources/docs/ctries-snapshots.pptx)) | Data Structures | 2012
