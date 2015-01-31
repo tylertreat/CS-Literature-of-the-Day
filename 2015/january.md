@@ -13,3 +13,4 @@
 | 01/28/2015 | [Efficient Locking for Concurrent Operations on B-Trees](http://www.csd.uoc.gr/~hy460/pdf/p650-lehman.pdf) | Databases | 1981
 | 01/29/2015 | [Concurrent Tries with Efficient Non-Blocking Snapshots](https://axel22.github.io/resources/docs/ctries-snapshot.pdf) ([slides](https://axel22.github.io/resources/docs/ctries-snapshots.pptx)) | Data Structures | 2012
 | 01/30/2015 | [Stream Processing, Event Sourcing, Reactive, CEP... And Making Sense of It All](http://blog.confluent.io/2015/01/29/making-sense-of-stream-processing/) | Stream Processing | 2015
+| 01/31/2015 | [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](http://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf) | Distributed Systems | 2002
