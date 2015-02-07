@@ -6,3 +6,4 @@
 | 02/04/2015 | [The Log-Structured Merge-Tree (LSM-Tree)](http://paperhub.s3.amazonaws.com/18e91eb4db2114a06ea614f0384f2784.pdf) | Data Structures | 1996
 | 02/05/2015 | [Coordination Avoidance in Database Systems](http://www.vldb.org/pvldb/vol8/p185-bailis.pdf) ([talk](https://www.youtube.com/watch?v=JVEwJyTIjcE)) ([slides](https://speakerdeck.com/pbailis/availability-consistency-and-horizontally-scalable-data-management-sf-bay-area-acm)) | Databases | 2014
 | 02/06/2015 | [Building on Quicksand](http://arxiv.org/pdf/0909.1788v1.pdf) | Distributed Systems | 2009
+| 02/07/2015 | [HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf) | Algorithms | 2007
