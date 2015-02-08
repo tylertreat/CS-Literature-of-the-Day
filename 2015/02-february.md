@@ -7,3 +7,4 @@
 | 02/05/2015 | [Coordination Avoidance in Database Systems](http://www.vldb.org/pvldb/vol8/p185-bailis.pdf) ([talk](https://www.youtube.com/watch?v=JVEwJyTIjcE)) ([slides](https://speakerdeck.com/pbailis/availability-consistency-and-horizontally-scalable-data-management-sf-bay-area-acm)) | Databases | 2014
 | 02/06/2015 | [Building on Quicksand](http://arxiv.org/pdf/0909.1788v1.pdf) | Distributed Systems | 2009
 | 02/07/2015 | [HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf) | Algorithms | 2007
+| 02/08/2015 | [Scalable Eventually Consistent Counters over Unreliable Networks](http://arxiv.org/pdf/1307.3207v1.pdf) | Distributed Systems | 2013
