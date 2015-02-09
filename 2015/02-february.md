@@ -8,3 +8,4 @@
 | 02/06/2015 | [Building on Quicksand](http://arxiv.org/pdf/0909.1788v1.pdf) | Distributed Systems | 2009
 | 02/07/2015 | [HyperLogLog: the analysis of a near-optimal cardinality estimation algorithm](http://algo.inria.fr/flajolet/Publications/FlFuGaMe07.pdf) | Algorithms | 2007
 | 02/08/2015 | [Scalable Eventually Consistent Counters over Unreliable Networks](http://arxiv.org/pdf/1307.3207v1.pdf) | Distributed Systems | 2013
+| 02/09/2015 | [On the resemblance and containment of documents](http://gatekeeper.dec.com/ftp/pub/dec/SRC/publications/broder/positano-final-wpnums.pdf) | Algorithms | 1997
