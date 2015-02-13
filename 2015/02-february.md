@@ -12,3 +12,4 @@
 | 02/10/2015 | [A Protocol for REST over ZeroMQ](http://hintjens.com/blog:86) | Software Engineering | 2015
 | 02/11/2015 | [Orleans: Distributed Virtual Actors for Programmability and Scalability](http://research.microsoft.com/pubs/210931/Orleans-MSR-TR-2014-41.pdf) | Distributed Systems | 2014
 | 02/12/2015 | [Timelines at Scale](http://www.infoq.com/presentations/Twitter-Timeline-Scalability) | Software Engineering | 2013
+| 02/13/2015 | [Multiversion Concurrency Control—Theory and Algorithms](http://www.itu.dk/stud/speciale/bepjea/xwebtex/litt/multiversion-concurrency-control-theory-and-algorithm.pdf) | Databases | 1983
