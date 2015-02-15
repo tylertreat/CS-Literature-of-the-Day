@@ -14,3 +14,4 @@
 | 02/12/2015 | [Timelines at Scale](http://www.infoq.com/presentations/Twitter-Timeline-Scalability) | Software Engineering | 2013
 | 02/13/2015 | [Multiversion Concurrency Control—Theory and Algorithms](http://www.itu.dk/stud/speciale/bepjea/xwebtex/litt/multiversion-concurrency-control-theory-and-algorithm.pdf) | Databases | 1983
 | 02/14/2015 | [Malamute](https://github.com/Malamute/malamute-core/blob/master/MALAMUTE.md) | Distributed Systems | 2014
+| 02/15/2015 | [The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf) | Data Analytics | 2012
