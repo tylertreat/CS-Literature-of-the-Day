@@ -16,3 +16,4 @@
 | 02/14/2015 | [Malamute](https://github.com/Malamute/malamute-core/blob/master/MALAMUTE.md) | Distributed Systems | 2014
 | 02/15/2015 | [The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf) | Data Analytics | 2012
 | 02/16/2015 | [Lineage-driven Fault Injection](http://www.cs.berkeley.edu/~palvaro/molly.pdf) | Distributed Systems | 2015
+| 02/17/2015 | [The essence of functional programming](http://www.eliza.ch/doc/wadler92essence_of_FP.pdf) | Functional Programming | 1992
