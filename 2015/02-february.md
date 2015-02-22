@@ -13,7 +13,7 @@
 | 02/11/2015 | [Orleans: Distributed Virtual Actors for Programmability and Scalability](http://research.microsoft.com/pubs/210931/Orleans-MSR-TR-2014-41.pdf) | Distributed Systems | 2014
 | 02/12/2015 | [Timelines at Scale](http://www.infoq.com/presentations/Twitter-Timeline-Scalability) | Software Engineering | 2013
 | 02/13/2015 | [Multiversion Concurrency Control—Theory and Algorithms](http://www.itu.dk/stud/speciale/bepjea/xwebtex/litt/multiversion-concurrency-control-theory-and-algorithm.pdf) | Databases | 1983
-| 02/14/2015 | [Malamute](https://github.com/Malamute/malamute-core/blob/master/MALAMUTE.md) | Distributed Systems | 2014
+| 02/14/2015 | [Malamute](https://github.com/Malamute/malamute-core/blob/master/MALAMUTE.md) | Messaging | 2014
 | 02/15/2015 | [The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf) | Data Analytics | 2012
 | 02/16/2015 | [Lineage-driven Fault Injection](http://www.cs.berkeley.edu/~palvaro/molly.pdf) | Distributed Systems | 2015
 | 02/17/2015 | [The essence of functional programming](http://www.eliza.ch/doc/wadler92essence_of_FP.pdf) | Functional Programming | 1992
@@ -21,3 +21,4 @@
 | 02/19/2015 | [Anti-Caching: A New Approach to Database Management System Architecture](http://www.vldb.org/pvldb/vol6/p1942-debrabant.pdf) | Databases | 2013
 | 02/20/2015 | [Real time insights into LinkedIn's performance using Apache Samza](http://engineering.linkedin.com/samza/real-time-insights-linkedins-performance-using-apache-samza) | Stream Processing | 2014
 | 02/21/2015 | [Log Structured Merge Trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/) | Databases | 2015
+| 02/22/2015 | [NATS - A new nervous system for distributed cloud platforms](http://www.slideshare.net/derekcollison/nats-a-new-nervous-system-for-distributed-cloud-platforms) | Messaging | 2015
