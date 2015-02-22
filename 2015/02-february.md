@@ -20,3 +20,4 @@
 | 02/18/2015 | [Raft Refloated: Do We Have Consensus?](http://www.cl.cam.ac.uk/~ms705/pub/papers/2015-osr-raft.pdf) | Distributed Systems | 2015
 | 02/19/2015 | [Anti-Caching: A New Approach to Database Management System Architecture](http://www.vldb.org/pvldb/vol6/p1942-debrabant.pdf) | Databases | 2013
 | 02/20/2015 | [Real time insights into LinkedIn's performance using Apache Samza](http://engineering.linkedin.com/samza/real-time-insights-linkedins-performance-using-apache-samza) | Stream Processing | 2014
+| 02/21/2015 | [Log Structured Merge Trees](http://www.benstopford.com/2015/02/14/log-structured-merge-trees/) | Databases | 2015
