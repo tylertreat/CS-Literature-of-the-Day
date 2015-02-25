@@ -24,3 +24,4 @@
 | 02/22/2015 | [NATS - A new nervous system for distributed cloud platforms](http://www.slideshare.net/derekcollison/nats-a-new-nervous-system-for-distributed-cloud-platforms) | Messaging | 2015
 | 02/23/2015 | [The Saddest Moment](http://research.microsoft.com/en-us/people/mickens/thesaddestmoment.pdf) | Distributed Systems | 2013
 | 02/24/2015 | [Linearizability versus Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/) | Databases | 2014
+| 02/25/2015 | [Can HTTP/2 Replace MQTT?](http://timkellogg.me/blog/2015/02/20/can-http2-replace-mqtt/) | Messaging | 2015
