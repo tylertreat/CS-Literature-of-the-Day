@@ -25,3 +25,4 @@
 | 02/23/2015 | [The Saddest Moment](http://research.microsoft.com/en-us/people/mickens/thesaddestmoment.pdf) | Distributed Systems | 2013
 | 02/24/2015 | [Linearizability versus Serializability](http://www.bailis.org/blog/linearizability-versus-serializability/) | Databases | 2014
 | 02/25/2015 | [Can HTTP/2 Replace MQTT?](http://timkellogg.me/blog/2015/02/20/can-http2-replace-mqtt/) | Messaging | 2015
+| 02/26/2015 | [Life beyond Distributed Transactions: an Apostate’s Opinion](http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf) | Distributed Systems | 2007
