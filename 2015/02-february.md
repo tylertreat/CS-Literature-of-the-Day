@@ -27,3 +27,4 @@
 | 02/25/2015 | [Can HTTP/2 Replace MQTT?](http://timkellogg.me/blog/2015/02/20/can-http2-replace-mqtt/) | Messaging | 2015
 | 02/26/2015 | [Life beyond Distributed Transactions: an Apostate’s Opinion](http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf) | Distributed Systems | 2007
 | 02/27/2015 | [Logic and Lattices for Distributed Programming](http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf) | Distributed Systems | 2012
+| 02/28/2015 | [A Simple Implementation Technique for Priority Search Queues](http://www.cs.ox.ac.uk/ralf.hinze/publications/ICFP01.pdf) | Algorithms | 2001
