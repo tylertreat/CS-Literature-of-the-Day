@@ -5,3 +5,4 @@
 | 03/03/2015 | [Worst-Case Distributed Systems Design](http://www.bailis.org/blog/worst-case-distributed-systems-design/) | Distributed Systems | 2015
 | 03/04/2015 | [All Internet Traffic is Written on Postcards](http://www.thoughtworks.com/insights/blog/all-internet-traffic-written-postcards) | Networking | 2015
 | 03/05/2015 | [High-Performance Concurrency Control Mechanisms for Main-Memory Databases](http://arxiv.org/pdf/1201.0228v1.pdf) | Databases | 2012
+| 03/06/2015 | [Distributed Hash Tables, Part I](http://www.linuxjournal.com/article/6797) | Distributed Systems | 2003
