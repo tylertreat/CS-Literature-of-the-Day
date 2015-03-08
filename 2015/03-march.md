@@ -7,3 +7,4 @@
 | 03/05/2015 | [High-Performance Concurrency Control Mechanisms for Main-Memory Databases](http://arxiv.org/pdf/1201.0228v1.pdf) | Databases | 2012
 | 03/06/2015 | [Distributed Hash Tables, Part I](http://www.linuxjournal.com/article/6797) | Distributed Systems | 2003
 | 03/07/2015 | [Flow Analysis & Time-based Bloom Filters](https://www.igvita.com/2010/01/06/flow-analysis-time-based-bloom-filters/) | Stream Processing | 2010
+| 03/08/2015 | [Event Sourcing at Global Scale](http://krasserm.github.io/2015/01/13/event-sourcing-at-global-scale/) | Distributed Systems | 2015
