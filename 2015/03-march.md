@@ -8,3 +8,4 @@
 | 03/06/2015 | [Distributed Hash Tables, Part I](http://www.linuxjournal.com/article/6797) | Distributed Systems | 2003
 | 03/07/2015 | [Flow Analysis & Time-based Bloom Filters](https://www.igvita.com/2010/01/06/flow-analysis-time-based-bloom-filters/) | Stream Processing | 2010
 | 03/08/2015 | [Event Sourcing at Global Scale](http://krasserm.github.io/2015/01/13/event-sourcing-at-global-scale/) | Distributed Systems | 2015
+| 03/09/2015 | [Samza in LinkedIn: How LinkedIn Processes Billions of Events Everyday in Real-time](http://www.infoq.com/presentations/samza-linkedin-2014) | Stream Processing | 2014
