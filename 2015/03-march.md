@@ -9,3 +9,4 @@
 | 03/07/2015 | [Flow Analysis & Time-based Bloom Filters](https://www.igvita.com/2010/01/06/flow-analysis-time-based-bloom-filters/) | Stream Processing | 2010
 | 03/08/2015 | [Event Sourcing at Global Scale](http://krasserm.github.io/2015/01/13/event-sourcing-at-global-scale/) | Distributed Systems | 2015
 | 03/09/2015 | [Samza in LinkedIn: How LinkedIn Processes Billions of Events Everyday in Real-time](http://www.infoq.com/presentations/samza-linkedin-2014) | Stream Processing | 2014
+| 03/10/2015 | [Cuckoo Filter: Practically Better Than Bloom](http://www.pdl.cmu.edu/PDL-FTP/FS/cuckoo-conext2014.pdf) | Data Structures | 2014
