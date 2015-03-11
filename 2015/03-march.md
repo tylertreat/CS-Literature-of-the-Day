@@ -10,3 +10,4 @@
 | 03/08/2015 | [Event Sourcing at Global Scale](http://krasserm.github.io/2015/01/13/event-sourcing-at-global-scale/) | Distributed Systems | 2015
 | 03/09/2015 | [Samza in LinkedIn: How LinkedIn Processes Billions of Events Everyday in Real-time](http://www.infoq.com/presentations/samza-linkedin-2014) | Stream Processing | 2014
 | 03/10/2015 | [Cuckoo Filter: Practically Better Than Bloom](http://www.pdl.cmu.edu/PDL-FTP/FS/cuckoo-conext2014.pdf) | Data Structures | 2014
+| 03/11/2015 | [A Scalable Content-Addressable Network](http://www.eecs.berkeley.edu/~sylvia/papers/cans.pdf) | Distributed Systems | 2001
