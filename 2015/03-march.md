@@ -12,3 +12,4 @@
 | 03/10/2015 | [Cuckoo Filter: Practically Better Than Bloom](http://www.pdl.cmu.edu/PDL-FTP/FS/cuckoo-conext2014.pdf) | Data Structures | 2014
 | 03/11/2015 | [A Scalable Content-Addressable Network](http://www.eecs.berkeley.edu/~sylvia/papers/cans.pdf) | Distributed Systems | 2001
 | 03/12/2015 | [Disambiguating Databases](http://queue.acm.org/detail.cfm?id=2696453) | Databases | 2014
+| 03/13/2015 | [Accountants Don't Use Erasers](http://blogs.msdn.com/b/pathelland/archive/2007/06/14/accountants-don-t-use-erasers.aspx) | Databases | 2007
