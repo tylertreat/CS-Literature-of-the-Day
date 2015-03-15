@@ -14,3 +14,4 @@
 | 03/12/2015 | [Disambiguating Databases](http://queue.acm.org/detail.cfm?id=2696453) | Databases | 2014
 | 03/13/2015 | [Accountants Don't Use Erasers](http://blogs.msdn.com/b/pathelland/archive/2007/06/14/accountants-don-t-use-erasers.aspx) | Databases | 2007
 | 03/14/2015 | [Interval Tree Clocks: A Logical Clock for Dynamic Systems](http://gsd.di.uminho.pt/members/cbm/ps/itc2008.pdf) | Distributed Systems | 2008
+| 03/15/2015 | [Lessons Learned from Implementing Paxos](http://blog.willportnoy.com/2012/06/lessons-learned-from-paxos.html) | Distributed Systems | 2012
