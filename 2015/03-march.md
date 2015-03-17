@@ -16,3 +16,4 @@
 | 03/14/2015 | [Interval Tree Clocks: A Logical Clock for Dynamic Systems](http://gsd.di.uminho.pt/members/cbm/ps/itc2008.pdf) | Distributed Systems | 2008
 | 03/15/2015 | [Lessons Learned from Implementing Paxos](http://blog.willportnoy.com/2012/06/lessons-learned-from-paxos.html) | Distributed Systems | 2012
 | 03/16/2015 | [Have Your Cake and Eat It Too -- Further Dispelling the Myths of the Lambda Architecture](http://www.infoq.com/presentations/millwheel) | Stream Processing | 2015
+| 03/17/2015 | [Predecessor search for Big Data: x-fast tries, locality of reference and all that](http://www.borzov.ca/posts/xfast/) | Data Structures | 2015
