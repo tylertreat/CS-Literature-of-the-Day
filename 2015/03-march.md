@@ -18,3 +18,4 @@
 | 03/16/2015 | [Have Your Cake and Eat It Too -- Further Dispelling the Myths of the Lambda Architecture](http://www.infoq.com/presentations/millwheel) | Stream Processing | 2015
 | 03/17/2015 | [Predecessor search for Big Data: x-fast tries, locality of reference and all that](http://www.borzov.ca/posts/xfast/) | Data Structures | 2015
 | 03/18/2015 | [A Fast, Minimal Memory, Consistent Hash Algorithm](http://arxiv.org/pdf/1406.2294v1.pdf) | Algorithms | 2014
+| 03/19/2015 | [Scale Failure](http://queue.acm.org/detail.cfm?id=2147781) | Software Engineering | 2012
