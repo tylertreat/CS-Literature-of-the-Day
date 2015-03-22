@@ -21,3 +21,4 @@
 | 03/19/2015 | [Scale Failure](http://queue.acm.org/detail.cfm?id=2147781) | Software Engineering | 2012
 | 03/20/2015 | [Memories, Guesses, and Apologies](http://blogs.msdn.com/b/pathelland/archive/2007/05/15/memories-guesses-and-apologies.aspx) | Distributed Systems | 2007
 | 03/21/2015 | [Fast Bounded-Concurrency Hash Tables](http://backtrace.io/blog/blog/2015/03/13/workload-specialization/) | Data Structures | 2015
+| 03/22/2015 | [Mature Optimization: An Introduction](http://carlos.bueno.org/optimization/) | Software Engineering | 2013
