@@ -25,3 +25,4 @@
 | 03/23/2015 | [Zab: High-performance broadcast for primary-backup systems](http://web.stanford.edu/class/cs347/reading/zab.pdf) | Distributed Systems | 2011
 | 03/24/2015 | [Eventually Consistent - Revisited](http://www.allthingsdistributed.com/2008/12/eventually_consistent.html) | Distributed Systems | 2008
 | 03/25/2015 | [On Optimistic Methods for Concurrency Control](http://www.cs.berkeley.edu/~rxin/db-papers/OCC-Optimistic-Concurrency-Control.pdf) | Databases | 1981
+| 03/26/2015 | [The Google File System](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/gfs-sosp2003.pdf) | Distributed Systems | 2003
