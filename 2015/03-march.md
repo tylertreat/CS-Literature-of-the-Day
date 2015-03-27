@@ -26,3 +26,4 @@
 | 03/24/2015 | [Eventually Consistent - Revisited](http://www.allthingsdistributed.com/2008/12/eventually_consistent.html) | Distributed Systems | 2008
 | 03/25/2015 | [On Optimistic Methods for Concurrency Control](http://www.cs.berkeley.edu/~rxin/db-papers/OCC-Optimistic-Concurrency-Control.pdf) | Databases | 1981
 | 03/26/2015 | [The Google File System](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/gfs-sosp2003.pdf) | Distributed Systems | 2003
+| 03/27/2015 | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://www.cs.berkeley.edu/~rxin/db-papers/Spark.pdf) | Distributed Systems | 2012
