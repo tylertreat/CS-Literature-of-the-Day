@@ -28,3 +28,4 @@
 | 03/26/2015 | [The Google File System](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/gfs-sosp2003.pdf) | Distributed Systems | 2003
 | 03/27/2015 | [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](http://www.cs.berkeley.edu/~rxin/db-papers/Spark.pdf) | Distributed Systems | 2012
 | 03/28/2015 | [An Introduction to Lock-Free Programming](http://preshing.com/20120612/an-introduction-to-lock-free-programming/) | Concurrency | 2012
+| 03/29/2015 | [Multicore and Distributed Systems: Sharing Ideas to Build A Scalable Database](https://youtu.be/Mbg1COjhsJU?list=PL9Jh2HsAWHxLco7V1SjU9hUzP53CBZOYO) | Databases | 2014
