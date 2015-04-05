@@ -4,3 +4,4 @@
 | 04/02/2015 | [Dynamo: Amazon’s Highly Available Key-value Store ](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) | Distributed Systems | 2007
 | 04/03/2015 | [A New Solution of Dijkstra's Concurrent Programming Problem](http://research.microsoft.com/en-us/um/people/lamport/pubs/bakery.pdf) | Algorithms | 1974
 | 04/04/2015 | [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) | Software Engineering | 2006
+| 04/05/2015 | [Sketch of the Day: Frugal Streaming](http://research.neustar.biz/2013/09/16/sketch-of-the-day-frugal-streaming/) | Stream Processing | 2013
