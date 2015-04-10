@@ -9,3 +9,4 @@
 | 04/07/2015 | [Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications](http://www.cs.berkeley.edu/~rxin/db-papers/Chord-DHT.pdf) | Distributed Systems | 2001
 | 04/08/2015 | [The Google File System](http://static.googleusercontent.com/media/research.google.com/en/us/archive/gfs-sosp2003.pdf) | File Systems | 2003
 | 04/09/2015 | [References for Data Stream Algorithms](http://dimacs.rutgers.edu/~graham/pubs/papers/bristol.pdf) | Stream Processing | 2007
+| 04/10/2015 | [Reliable Cron across the Planet](https://queue.acm.org/detail.cfm?id=2745840) | Distributed Systems | 2015
