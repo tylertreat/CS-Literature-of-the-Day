@@ -12,3 +12,4 @@
 | 04/10/2015 | [Reliable Cron across the Planet](https://queue.acm.org/detail.cfm?id=2745840) | Distributed Systems | 2015
 | 04/11/2015 | [Roughly Sorting: Sequential and Parallel Approach](http://ci.nii.ac.jp/naid/110002673489/en) | Algorithms | 1989
 | 04/12/2015 | [MapReduce: Simplified Data Processing on Large Clusters](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/mapreduce-osdi04.pdf) | Distributed Systems | 2004
+| 04/13/2015 | [Why Are Geospatial Databases So Hard To Build?](http://www.jandrewrogers.com/2015/03/02/geospatial-databases-are-hard/) | Databases | 2015
