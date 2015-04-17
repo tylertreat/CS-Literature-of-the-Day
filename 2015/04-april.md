@@ -16,3 +16,4 @@
 | 04/14/2015 | [High-speed message matching](http://zeromq.org/whitepapers:message-matching) | Algorithms | 2007
 | 04/15/2015 | [PALM: Parallel Architecture-Friendly Latch-Free Modifications to B+ Trees on Many-Core Processors](http://cs.unc.edu/~sewall/palm.pdf) | Data Structures | 2011
 | 04/16/2015 | [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en/us/archive/chubby-osdi06.pdf) | Distributed Systems | 2006
+| 04/17/2015 | [Methods for Finding Frequent Items in Data Streams](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.187.9800&rep=rep1&type=pdf) | Stream Processing | 2010
