@@ -19,3 +19,4 @@
 | 04/17/2015 | [Methods for Finding Frequent Items in Data Streams](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.187.9800&rep=rep1&type=pdf) | Stream Processing | 2010
 | 04/18/2015 | [Highly Available Transactions: Virtues and Limitations](http://www.bailis.org/papers/hat-vldb2014.pdf) | Distributed Systems | 2013
 | 04/19/2015 | [Optimising Subscriptions in nanomsg](http://250bpm.com/blog:19) | Data Structures | 2013
+| 04/20/2015 | [Consistency Tradeoffs in Modern Distributed Database System Design](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf) | Distributed Systems | 2012
