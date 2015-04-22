@@ -21,3 +21,4 @@
 | 04/19/2015 | [Optimising Subscriptions in nanomsg](http://250bpm.com/blog:19) | Data Structures | 2013
 | 04/20/2015 | [Consistency Tradeoffs in Modern Distributed Database System Design](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf) | Distributed Systems | 2012
 | 04/21/2015 | [Stasis: Flexible Transactional Storage](http://www.cs.berkeley.edu/~brewer/sears-2006.pdf) | Databases | 2006
+| 04/22/2015 | [An empirical perspective on causal consistency](http://dl.acm.org/ft_gateway.cfm?id=2745949&ftid=1564565&dwn=1&CFID=654404680&CFTOKEN=66137796) | Distributed Systems | 2015
