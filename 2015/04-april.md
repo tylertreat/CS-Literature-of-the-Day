@@ -24,3 +24,4 @@
 | 04/22/2015 | [An empirical perspective on causal consistency](http://dl.acm.org/ft_gateway.cfm?id=2745949&ftid=1564565&dwn=1&CFID=654404680&CFTOKEN=66137796) | Distributed Systems | 2015
 | 04/23/2015 | [Probabilistic Reliable Dissemination in Large-Scale Systems](http://pages.saclay.inria.fr/laurent.massoulie/ieee_tpds.pdf) | Distributed Systems | 2003
 | 04/24/2015 | [Fully Persistent Graphs – Which One To Choose?](http://web.engr.oregonstate.edu/~erwig/papers/PersistentGraphs_IFL97.pdf) | Data Structures | 1997
+| 04/25/2015 | [HyParView: a membership protocol for reliable gossip-based broadcast](http://www.gsd.inesc-id.pt/~ler/reports/dsn07-leitao.pdf) | Distributed Systems | 2007
