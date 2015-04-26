@@ -25,3 +25,4 @@
 | 04/23/2015 | [Probabilistic Reliable Dissemination in Large-Scale Systems](http://pages.saclay.inria.fr/laurent.massoulie/ieee_tpds.pdf) | Distributed Systems | 2003
 | 04/24/2015 | [Fully Persistent Graphs – Which One To Choose?](http://web.engr.oregonstate.edu/~erwig/papers/PersistentGraphs_IFL97.pdf) | Data Structures | 1997
 | 04/25/2015 | [HyParView: a membership protocol for reliable gossip-based broadcast](http://www.gsd.inesc-id.pt/~ler/reports/dsn07-leitao.pdf) | Distributed Systems | 2007
+| 04/26/2015 | [Phase Reconciliation for Contended In-Memory Transactions](http://pdos.csail.mit.edu/~neha/phaser.pdf) | Databases | 2014
