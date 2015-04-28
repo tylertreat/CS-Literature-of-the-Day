@@ -27,3 +27,4 @@
 | 04/25/2015 | [HyParView: a membership protocol for reliable gossip-based broadcast](http://www.gsd.inesc-id.pt/~ler/reports/dsn07-leitao.pdf) | Distributed Systems | 2007
 | 04/26/2015 | [Phase Reconciliation for Contended In-Memory Transactions](http://pdos.csail.mit.edu/~neha/phaser.pdf) | Databases | 2014
 | 04/27/2015 | [Chain Replication for Supporting High Throughput and Availability](http://www.cs.cornell.edu/home/rvr/papers/osdi04.pdf) | Distributed Systems | 2004
+| 04/28/2015 | [Medians and Beyond: New Aggregation Techniques for Sensor Networks](http://www.cs.virginia.edu/~son/cs851/papers/ucsb.sensys04.pdf) | Algorithms | 2004
