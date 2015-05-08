@@ -7,3 +7,4 @@
 | 05/05/2015 | [The Pathologies of Big Data](https://queue.acm.org/detail.cfm?id=1563874) | Databases | 2009
 | 05/06/2015 | [The network is reliable](https://aphyr.com/posts/288-the-network-is-reliable) | Distributed Systems | 2013
 | 05/07/2015 | [A Practical Multi-Word Compare-and-Swap Operation](https://timharris.uk/papers/2002-disc.pdf) | Algorithms | 2002
+| 05/08/2015 | [RPC and its Offspring: Convenient, Yet Fundamentally Flawed](http://www.infoq.com/presentations/vinoski-rpc-convenient-but-flawed) | Software Engineering | 2009
