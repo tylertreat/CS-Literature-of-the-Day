@@ -9,3 +9,5 @@
 | 05/07/2015 | [A Practical Multi-Word Compare-and-Swap Operation](https://timharris.uk/papers/2002-disc.pdf) | Algorithms | 2002
 | 05/08/2015 | [RPC and its Offspring: Convenient, Yet Fundamentally Flawed](http://www.infoq.com/presentations/vinoski-rpc-convenient-but-flawed) | Software Engineering | 2009
 | 05/09/2015 | [HyperLogSandwich: A probabilistic data structure for frequency/k-occurrence cardinality estimation of multisets](https://github.com/chanian/hyperlogsandwich/wiki) | Data Structures | 2015
+| 05/10/2015 | [Queues Are Databases](http://research.microsoft.com/pubs/69641/tr-95-56.pdf) | Messaging | 1995
+| 05/11/2015 | [Databases suck for Messaging](http://www.rabbitmq.com/resources/RabbitMQ_Oxford_Geek_Night.pdf) | Messaging | 2009
