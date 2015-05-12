@@ -11,3 +11,4 @@
 | 05/09/2015 | [HyperLogSandwich: A probabilistic data structure for frequency/k-occurrence cardinality estimation of multisets](https://github.com/chanian/hyperlogsandwich/wiki) | Data Structures | 2015
 | 05/10/2015 | [Queues Are Databases](http://research.microsoft.com/pubs/69641/tr-95-56.pdf) | Messaging | 1995
 | 05/11/2015 | [Databases suck for Messaging](http://www.rabbitmq.com/resources/RabbitMQ_Oxford_Geek_Night.pdf) | Messaging | 2009
+| 05/12/2015 | [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues) | Data Structures | 2015
