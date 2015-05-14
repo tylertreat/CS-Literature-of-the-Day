@@ -13,4 +13,4 @@
 | 05/11/2015 | [Databases suck for Messaging](http://www.rabbitmq.com/resources/RabbitMQ_Oxford_Geek_Night.pdf) | Messaging | 2009
 | 05/12/2015 | [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues) | Data Structures | 2015
 | 05/13/2015 | [Taming uncertainty in distributed systems with help from the network](http://dl.acm.org/citation.cfm?id=2741976) | Distributed Systems | 2015
-| 05/14/2015 | [Mythbusting modern hardware to gain "Mechanical Sympathy"](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) | Software Engineering | 2013
+| 05/14/2015 | [Mythbusting modern hardware to gain "Mechanical Sympathy"](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) | Hardware | 2013
