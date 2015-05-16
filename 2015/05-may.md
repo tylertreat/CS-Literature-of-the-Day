@@ -15,3 +15,4 @@
 | 05/13/2015 | [Taming uncertainty in distributed systems with help from the network](http://dl.acm.org/citation.cfm?id=2741976) | Distributed Systems | 2015
 | 05/14/2015 | [Mythbusting modern hardware to gain "Mechanical Sympathy"](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) | Hardware | 2013
 | 05/15/2015 | [Upside Down Databases: Bridging the Operational and Analytic Worlds with Streams](http://www.benstopford.com/2015/04/07/upside-down-databases-bridging-the-operational-and-analytic-worlds-with-streams/) | Stream Processing | 2015
+| 05/16/2015 | [Putting Consistency Back into Eventual Consistency](http://dl.acm.org/citation.cfm?id=2741972) | Distributed Systems | 2015
