@@ -17,3 +17,4 @@
 | 05/15/2015 | [Upside Down Databases: Bridging the Operational and Analytic Worlds with Streams](http://www.benstopford.com/2015/04/07/upside-down-databases-bridging-the-operational-and-analytic-worlds-with-streams/) | Stream Processing | 2015
 | 05/16/2015 | [Putting Consistency Back into Eventual Consistency](http://dl.acm.org/citation.cfm?id=2741972) | Distributed Systems | 2015
 | 05/17/2015 | [CORFU: A Shared Log Design for Flash Clusters](http://research.microsoft.com/pubs/157204/corfumain-final.pdf) | Distributed Systems | 2012
+| 05/18/2015 | [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf) | Distributed Systems | 2006
