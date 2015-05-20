@@ -19,3 +19,4 @@
 | 05/17/2015 | [CORFU: A Shared Log Design for Flash Clusters](http://research.microsoft.com/pubs/157204/corfumain-final.pdf) | Distributed Systems | 2012
 | 05/18/2015 | [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf) | Distributed Systems | 2006
 | 05/19/2015 | [Orleans, Distributed Virtual Actors for Programming and Scalability Comparison](http://christophermeiklejohn.com/papers/2015/05/03/orleans.html) | Distributed Systems | 2015
+| 05/20/2015 | [Degrees Of (Lock/Wait) Freedom](http://psy-lob-saw.blogspot.com/2015/05/degrees-of-lockwait-freedom.html) | Algorithms | 2015
