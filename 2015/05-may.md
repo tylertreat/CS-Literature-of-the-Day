@@ -20,3 +20,5 @@
 | 05/18/2015 | [Bigtable: A Distributed Storage System for Structured Data](http://static.googleusercontent.com/media/research.google.com/en/us/archive/bigtable-osdi06.pdf) | Distributed Systems | 2006
 | 05/19/2015 | [Orleans, Distributed Virtual Actors for Programming and Scalability Comparison](http://christophermeiklejohn.com/papers/2015/05/03/orleans.html) | Distributed Systems | 2015
 | 05/20/2015 | [Degrees Of (Lock/Wait) Freedom](http://psy-lob-saw.blogspot.com/2015/05/degrees-of-lockwait-freedom.html) | Algorithms | 2015
+| 05/21/2015 | [What is Garbage Collection?](https://plumbr.eu/blog/garbage-collection/what-is-garbage-collection) | Algorithms | 2015
+| 05/22/2015 | [Version control, collaborative editing and undo](http://incidentalcomplexity.com/2015/04/22/version-control/) | Algorithms | 2015
