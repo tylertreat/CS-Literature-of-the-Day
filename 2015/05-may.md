@@ -24,3 +24,4 @@
 | 05/22/2015 | [What is Garbage Collection?](https://plumbr.eu/blog/garbage-collection/what-is-garbage-collection) | Algorithms | 2015
 | 05/23/2015 | [Musketeer: all for one, one for all in data processing systems](http://www.cl.cam.ac.uk/~icg27/pub/papers/2015-eurosys-musketeer.pdf) | Data Analytics | 2015
 | 05/24/2015 | [On the use of Clocks to Enforce Consistency in the Cloud](http://sites.computer.org/debull/A15mar/p18.pdf) | Distributed Systems | 2015
+| 05/25/2015 | [Scaling Concurrent Log-Structured Data Stores](http://labs.yahoo.com/publication/scaling-concurrent-log-structured-data-stores/) | Databases | 2015
