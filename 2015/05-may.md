@@ -26,3 +26,4 @@
 | 05/24/2015 | [On the use of Clocks to Enforce Consistency in the Cloud](http://sites.computer.org/debull/A15mar/p18.pdf) | Distributed Systems | 2015
 | 05/25/2015 | [Scaling Concurrent Log-Structured Data Stores](http://labs.yahoo.com/publication/scaling-concurrent-log-structured-data-stores/) | Databases | 2015
 | 05/26/2015 | [Convenience Over Correctness](http://steve.vinoski.net/pdf/IEEE-Convenience_Over_Correctness.pdf) | Distributed Systems | 2008
+| 05/27/2015 | [An In-Memory Object Caching Framework with Adaptive Load Balancing](http://people.cs.vt.edu/yuec/docs/eurosys15-mbal.pdf) | Caching | 2015
