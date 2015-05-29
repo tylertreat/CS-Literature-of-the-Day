@@ -28,3 +28,4 @@
 | 05/26/2015 | [Convenience Over Correctness](http://steve.vinoski.net/pdf/IEEE-Convenience_Over_Correctness.pdf) | Distributed Systems | 2008
 | 05/27/2015 | [An In-Memory Object Caching Framework with Adaptive Load Balancing](http://people.cs.vt.edu/yuec/docs/eurosys15-mbal.pdf) | Caching | 2015
 | 05/28/2015 | [Defending Something Other Than RPC](http://steve.vinoski.net/blog/2008/05/24/defending-something-other-than-rpc/) | Distributed Systems | 2008
+| 05/29/2015 | [The Byzantine Generals Problem](http://www.cs.cornell.edu/courses/cs614/2004sp/papers/lsp82.pdf) | Distributed Systems | 1982
