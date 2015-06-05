@@ -4,3 +4,4 @@
 | 06/02/2015 | [CQRS](http://martinfowler.com/bliki/CQRS.html) | Design Patterns | 2011
 | 06/03/2015 | [Sagas](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf) | Distributed Systems | 1987
 | 06/04/2015 | [Containers and persistent data](http://lwn.net/Articles/646054/) | Distributed Systems | 2015
+| 06/05/2015 | [Turing Lecture: The Computer Science of Concurrency: The Early Years](http://cacm.acm.org/magazines/2015/6/187316-turing-lecture-the-computer-science-of-concurrency/fulltext) | Algorithms | 2015
