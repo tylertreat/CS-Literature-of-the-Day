@@ -8,3 +8,4 @@
 | 06/06/2015 | [Everything You Ever Wanted to Know About Message Latency](http://computernetworks5e.org/blogs/wp-content/uploads/2013/09/latency-supp1.pdf) | Networking | 2013
 | 06/07/2015 | [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs-www.cs.yale.edu/homes/dna/papers/calvin-sigmod12.pdf) | Distributed Systems | 2012
 | 06/08/2015 | [Epidemic Broadcast Trees](http://www.gsd.inesc-id.pt/~jleitao/pdf/srds07-leitao.pdf) | Distributed Systems | 2014
+| 06/09/2015 | [Reusability Trap](http://250bpm.com/blog:49) | Software Engineering | 2015
