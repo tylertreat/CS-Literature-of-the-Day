@@ -9,3 +9,4 @@
 | 06/07/2015 | [Calvin: Fast Distributed Transactions for Partitioned Database Systems](http://cs-www.cs.yale.edu/homes/dna/papers/calvin-sigmod12.pdf) | Distributed Systems | 2012
 | 06/08/2015 | [Epidemic Broadcast Trees](http://www.gsd.inesc-id.pt/~jleitao/pdf/srds07-leitao.pdf) | Distributed Systems | 2014
 | 06/09/2015 | [Reusability Trap](http://250bpm.com/blog:49) | Software Engineering | 2015
+| 06/10/2015 | [Locality-aware Partitioning in Parallel Database Systems](http://dl.acm.org/citation.cfm?id=2723718) | Databases | 2015
