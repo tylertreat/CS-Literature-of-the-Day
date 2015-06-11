@@ -10,3 +10,4 @@
 | 06/08/2015 | [Epidemic Broadcast Trees](http://www.gsd.inesc-id.pt/~jleitao/pdf/srds07-leitao.pdf) | Distributed Systems | 2014
 | 06/09/2015 | [Reusability Trap](http://250bpm.com/blog:49) | Software Engineering | 2015
 | 06/10/2015 | [Locality-aware Partitioning in Parallel Database Systems](http://dl.acm.org/citation.cfm?id=2723718) | Databases | 2015
+| 06/11/2015 | [Inside NGINX: How We Designed for Performance & Scale](http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/) | Web Servers | 2015
