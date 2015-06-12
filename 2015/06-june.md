@@ -11,3 +11,4 @@
 | 06/09/2015 | [Reusability Trap](http://250bpm.com/blog:49) | Software Engineering | 2015
 | 06/10/2015 | [Locality-aware Partitioning in Parallel Database Systems](http://dl.acm.org/citation.cfm?id=2723718) | Databases | 2015
 | 06/11/2015 | [Inside NGINX: How We Designed for Performance & Scale](http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/) | Web Servers | 2015
+| 06/12/2015 | [Efficient Algorithms for Answering the m-Closest Keywords Query](http://rose.ntu.edu.sg/Publications/Documents/Guo%20Tao_Efficient%20Algorithms%20for%20Answering%20the%20m-Closest.pdf) | Algorithms | 2015
