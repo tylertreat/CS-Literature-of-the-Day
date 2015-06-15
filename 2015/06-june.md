@@ -12,3 +12,4 @@
 | 06/10/2015 | [Locality-aware Partitioning in Parallel Database Systems](http://dl.acm.org/citation.cfm?id=2723718) | Databases | 2015
 | 06/11/2015 | [Inside NGINX: How We Designed for Performance & Scale](http://nginx.com/blog/inside-nginx-how-we-designed-for-performance-scale/) | Web Servers | 2015
 | 06/12/2015 | [Efficient Algorithms for Answering the m-Closest Keywords Query](http://rose.ntu.edu.sg/Publications/Documents/Guo%20Tao_Efficient%20Algorithms%20for%20Answering%20the%20m-Closest.pdf) | Algorithms | 2015
+| 06/13/2015 | [Challenges to Adopting Stronger Consistency at Scale](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-ajoux.pdf) | Distributed Systems | 2015
