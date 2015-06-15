@@ -14,3 +14,4 @@
 | 06/12/2015 | [Efficient Algorithms for Answering the m-Closest Keywords Query](http://rose.ntu.edu.sg/Publications/Documents/Guo%20Tao_Efficient%20Algorithms%20for%20Answering%20the%20m-Closest.pdf) | Algorithms | 2015
 | 06/13/2015 | [Challenges to Adopting Stronger Consistency at Scale](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-ajoux.pdf) | Distributed Systems | 2015
 | 06/14/2015 | [Minimizing Commit Latency of Transactions in Geo-Replicated Data Stores](http://dl.acm.org/citation.cfm?id=2723729&CFID=683382435&CFTOKEN=46542731) | Distributed Systems | 2015
+| 06/15/2015 | [Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity](http://www.bailis.org/papers/feral-sigmod2015.pdf) | Databases | 2015
