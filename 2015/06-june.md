@@ -16,3 +16,4 @@
 | 06/14/2015 | [Minimizing Commit Latency of Transactions in Geo-Replicated Data Stores](http://dl.acm.org/citation.cfm?id=2723729&CFID=683382435&CFTOKEN=46542731) | Distributed Systems | 2015
 | 06/15/2015 | [Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity](http://www.bailis.org/papers/feral-sigmod2015.pdf) | Databases | 2015
 | 06/16/2015 | [Life Beyond the Illusion of Present](http://de.slideshare.net/jboner/life-beyond-the-illusion-of-present) | Distributed Systems | 2015
+| 06/17/2015 | [Synapse: A Microservices Architecture for Heterogeneous-Database Web Applications](http://viennot.com/synapse.pdf) | Distributed Systems | 2015
