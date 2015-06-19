@@ -17,3 +17,4 @@
 | 06/15/2015 | [Feral Concurrency Control: An Empirical Investigation of Modern Application Integrity](http://www.bailis.org/papers/feral-sigmod2015.pdf) | Databases | 2015
 | 06/16/2015 | [Life Beyond the Illusion of Present](http://de.slideshare.net/jboner/life-beyond-the-illusion-of-present) | Distributed Systems | 2015
 | 06/17/2015 | [Synapse: A Microservices Architecture for Heterogeneous-Database Web Applications](http://viennot.com/synapse.pdf) | Distributed Systems | 2015
+| 06/18/2015 | [Models and Issues in Data Stream Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.9846&rep=rep1&type=pdf) | Stream Processing | 2002
