@@ -18,3 +18,4 @@
 | 06/16/2015 | [Life Beyond the Illusion of Present](http://de.slideshare.net/jboner/life-beyond-the-illusion-of-present) | Distributed Systems | 2015
 | 06/17/2015 | [Synapse: A Microservices Architecture for Heterogeneous-Database Web Applications](http://viennot.com/synapse.pdf) | Distributed Systems | 2015
 | 06/18/2015 | [Models and Issues in Data Stream Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.9846&rep=rep1&type=pdf) | Stream Processing | 2002
+| 06/19/2015 | [CAP: if all you have is a timeout, everything looks like a partition](http://blog.thislongrun.com/2015/05/CAP-theorem-partition-timeout-zookeeper.html) | Distributed Systems | 2015
