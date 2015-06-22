@@ -20,3 +20,4 @@
 | 06/18/2015 | [Models and Issues in Data Stream Systems](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.9846&rep=rep1&type=pdf) | Stream Processing | 2002
 | 06/19/2015 | [CAP: if all you have is a timeout, everything looks like a partition](http://blog.thislongrun.com/2015/05/CAP-theorem-partition-timeout-zookeeper.html) | Distributed Systems | 2015
 | 06/20/2015 | [Doing the Impossible: Exactly-once Messaging Patterns in Kafka](http://ben.kirw.in/2014/11/28/kafka-patterns/) | Messaging | 2014
+| 06/21/2015 | [Mutable Value Chains](https://joearms.github.io/2015/06/19/Mutable-Value_Chains.html) | Data Structures | 2015
