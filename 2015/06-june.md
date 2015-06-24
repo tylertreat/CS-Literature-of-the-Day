@@ -23,3 +23,4 @@
 | 06/21/2015 | [Mutable Value Chains](https://joearms.github.io/2015/06/19/Mutable-Value_Chains.html) | Data Structures | 2015
 | 06/22/2015 | [Visigoth Fault Tolerance](http://www.mpi-sws.org/~dcfp/files/dporto-vft-eurosys15.pdf) | Distributed Systems | 2015
 | 06/23/2015 | [A simple totally ordered broadcast protocol](http://labs.yahoo.com/publication/a-simple-totally-ordered-broadcast-protocol/) | Distributed Systems | 2008
+| 06/24/2015 | [You can learn a lot from a histogram](http://amistrongeryet.blogspot.com/2010/04/you-can-learn-lot-from-histogram.html) | Benchmarking | 2010
