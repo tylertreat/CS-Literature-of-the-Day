@@ -22,3 +22,4 @@
 | 06/20/2015 | [Doing the Impossible: Exactly-once Messaging Patterns in Kafka](http://ben.kirw.in/2014/11/28/kafka-patterns/) | Messaging | 2014
 | 06/21/2015 | [Mutable Value Chains](https://joearms.github.io/2015/06/19/Mutable-Value_Chains.html) | Data Structures | 2015
 | 06/22/2015 | [Visigoth Fault Tolerance](http://www.mpi-sws.org/~dcfp/files/dporto-vft-eurosys15.pdf) | Distributed Systems | 2015
+| 06/23/2015 | [A simple totally ordered broadcast protocol](http://labs.yahoo.com/publication/a-simple-totally-ordered-broadcast-protocol/) | Distributed Systems | 2008
