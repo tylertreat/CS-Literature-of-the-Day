@@ -27,3 +27,4 @@
 | 06/25/2015 | [Deconstructing the 'CAP theorem' for CM and DevOps](http://markburgess.org/blog_cap.html) | Distributed Systems | 2012
 | 06/26/2015 | [Databases on SSDs, Initial Ideas on Tuning](http://www.dr-josiah.com/2010/08/databases-on-ssds-initial-ideas-on.html) | Databases | 2010
 | 06/27/2015 | [When is "ACID" ACID? Rarely.](http://www.bailis.org/blog/when-is-acid-acid-rarely/) | Databases | 2013
+| 06/28/2015 | [When slower is faster](http://arxiv.org/pdf/1506.06796v1.pdf) | Optimization | 2015
