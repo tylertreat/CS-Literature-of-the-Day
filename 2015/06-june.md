@@ -28,3 +28,4 @@
 | 06/26/2015 | [Databases on SSDs, Initial Ideas on Tuning](http://www.dr-josiah.com/2010/08/databases-on-ssds-initial-ideas-on.html) | Databases | 2010
 | 06/27/2015 | [When is "ACID" ACID? Rarely.](http://www.bailis.org/blog/when-is-acid-acid-rarely/) | Databases | 2013
 | 06/28/2015 | [When slower is faster](http://arxiv.org/pdf/1506.06796v1.pdf) | Optimization | 2015
+| 06/29/2015 | [Linearizability: A Correctness Condition for Concurrent Objects](http://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf) | Distributed Systems | 1990
