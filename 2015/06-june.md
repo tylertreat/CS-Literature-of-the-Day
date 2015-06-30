@@ -29,3 +29,4 @@
 | 06/27/2015 | [When is "ACID" ACID? Rarely.](http://www.bailis.org/blog/when-is-acid-acid-rarely/) | Databases | 2013
 | 06/28/2015 | [When slower is faster](http://arxiv.org/pdf/1506.06796v1.pdf) | Optimization | 2015
 | 06/29/2015 | [Linearizability: A Correctness Condition for Concurrent Objects](http://cs.brown.edu/~mph/HerlihyW90/p463-herlihy.pdf) | Distributed Systems | 1990
+| 06/30/2015 | [Cheap Paxos](http://research.microsoft.com/en-us/um/people/lamport/pubs/web-dsn-submission.pdf) | Distributed Systems | 2004
