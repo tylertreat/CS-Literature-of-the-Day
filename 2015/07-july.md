@@ -10,3 +10,4 @@
 | 07/12/2015 | [RocksDB on Steroids, or Scaling Concurrent Log-Structured Key-Value Stores](http://yssrblog.tumblr.com/post/117085947023/rocksdb-on-steroids-or-scaling-concurrent) | Databases | 2015
 | 07/13/2015 | [Service Level Disagreements](http://blog.b3k.us/2009/07/15/service-level-disagreements.html) | Software Engineering | 2009
 | 07/14/2015 | [Fault Injection in Production](http://queue.acm.org/detail.cfm?id=2353017) | Software Engineering | 2012
+| 07/15/2015 | [Testing a Distributed System](http://queue.acm.org/detail.cfm?id=2800697) | Distributed Systems | 2015
