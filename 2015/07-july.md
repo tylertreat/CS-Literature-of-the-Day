@@ -11,3 +11,4 @@
 | 07/13/2015 | [Service Level Disagreements](http://blog.b3k.us/2009/07/15/service-level-disagreements.html) | Software Engineering | 2009
 | 07/14/2015 | [Fault Injection in Production](http://queue.acm.org/detail.cfm?id=2353017) | Software Engineering | 2012
 | 07/15/2015 | [Testing a Distributed System](http://queue.acm.org/detail.cfm?id=2800697) | Distributed Systems | 2015
+| 07/17/2015 | [At-Most-Once Message Delivery: A Case Study in Algorithm Verification](http://groups.csail.mit.edu/tds/papers/Lynch/concur92.pdf) | Messaging | 1992
