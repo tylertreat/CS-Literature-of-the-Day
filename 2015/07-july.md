@@ -12,3 +12,4 @@
 | 07/14/2015 | [Fault Injection in Production](http://queue.acm.org/detail.cfm?id=2353017) | Software Engineering | 2012
 | 07/15/2015 | [Testing a Distributed System](http://queue.acm.org/detail.cfm?id=2800697) | Distributed Systems | 2015
 | 07/17/2015 | [At-Most-Once Message Delivery: A Case Study in Algorithm Verification](http://groups.csail.mit.edu/tds/papers/Lynch/concur92.pdf) | Messaging | 1992
+| 07/18/2015 | [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) | Distributed Systems | 2013
