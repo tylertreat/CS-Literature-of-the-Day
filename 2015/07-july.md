@@ -13,3 +13,4 @@
 | 07/15/2015 | [Testing a Distributed System](http://queue.acm.org/detail.cfm?id=2800697) | Distributed Systems | 2015
 | 07/17/2015 | [At-Most-Once Message Delivery: A Case Study in Algorithm Verification](http://groups.csail.mit.edu/tds/papers/Lynch/concur92.pdf) | Messaging | 1992
 | 07/18/2015 | [Notes on Distributed Systems for Young Bloods](http://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/) | Distributed Systems | 2013
+| 07/19/2015 | [Eventual Consistency Today: Limitations, Extensions, and Beyond](http://queue.acm.org/detail.cfm?id=2462076) | Databases | 2013
