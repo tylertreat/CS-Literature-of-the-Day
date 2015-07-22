@@ -16,3 +16,4 @@
 | 07/19/2015 | [Eventual Consistency Today: Limitations, Extensions, and Beyond](http://queue.acm.org/detail.cfm?id=2462076) | Databases | 2013
 | 07/20/2015 | [Dapper, a Large-Scale Distributed Systems Tracing Infrastructure](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/36356.pdf) | Distributed Systems | 2010
 | 07/21/2015 | [The Tail at Scale: Achieving Rapid Response Times in Large Online Services](https://www.youtube.com/watch?v=C_PxVdQmfpk) | Distributed Systems | 2013
+| 07/22/2015 | [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf) | Distributed Systems | 2007
