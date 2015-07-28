@@ -18,3 +18,4 @@
 | 07/21/2015 | [The Tail at Scale: Achieving Rapid Response Times in Large Online Services](https://www.youtube.com/watch?v=C_PxVdQmfpk) | Distributed Systems | 2013
 | 07/22/2015 | [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf) | Distributed Systems | 2007
 | 07/24/2015 | [Reducing the Vulnerability Window in Distributed Transactional Protocols](https://www.info.ucl.ac.be/~pvr/papoc15-bravo-v3.pdf) | Distributed Systems | 2015
+| 07/27/2015 | [F1: A Distributed SQL Database That Scales](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41344.pdf) | Databases | 2013
