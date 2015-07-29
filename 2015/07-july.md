@@ -19,3 +19,4 @@
 | 07/22/2015 | [On Designing and Deploying Internet-Scale Services](http://mvdirona.com/jrh/talksAndPapers/JamesRH_Lisa.pdf) | Distributed Systems | 2007
 | 07/24/2015 | [Reducing the Vulnerability Window in Distributed Transactional Protocols](https://www.info.ucl.ac.be/~pvr/papoc15-bravo-v3.pdf) | Distributed Systems | 2015
 | 07/27/2015 | [F1: A Distributed SQL Database That Scales](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41344.pdf) | Databases | 2013
+| 07/28/2015 | [A Brief History of Scaling LinkedIn](http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin) | Distributed Systems | 2015
