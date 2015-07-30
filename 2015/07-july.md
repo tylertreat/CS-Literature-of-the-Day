@@ -20,3 +20,5 @@
 | 07/24/2015 | [Reducing the Vulnerability Window in Distributed Transactional Protocols](https://www.info.ucl.ac.be/~pvr/papoc15-bravo-v3.pdf) | Distributed Systems | 2015
 | 07/27/2015 | [F1: A Distributed SQL Database That Scales](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41344.pdf) | Databases | 2013
 | 07/28/2015 | [A Brief History of Scaling LinkedIn](http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin) | Distributed Systems | 2015
+| 07/29/2015 | [Thinking Clearly About Performance, Part 1](http://cacm.acm.org/magazines/2010/9/98033-thinking-clearly-about-performance-part-1/fulltext) | Software Engineering | 2010
+| 07/30/2015 | [Thinking Clearly About Performance, Part 2](http://cacm.acm.org/magazines/2010/10/99486-thinking-clearly-about-performance-part-2/fulltext) | Software Engineering | 2010
