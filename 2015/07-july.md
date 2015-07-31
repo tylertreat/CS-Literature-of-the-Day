@@ -22,3 +22,4 @@
 | 07/28/2015 | [A Brief History of Scaling LinkedIn](http://engineering.linkedin.com/architecture/brief-history-scaling-linkedin) | Distributed Systems | 2015
 | 07/29/2015 | [Thinking Clearly About Performance, Part 1](http://cacm.acm.org/magazines/2010/9/98033-thinking-clearly-about-performance-part-1/fulltext) | Software Engineering | 2010
 | 07/30/2015 | [Thinking Clearly About Performance, Part 2](http://cacm.acm.org/magazines/2010/10/99486-thinking-clearly-about-performance-part-2/fulltext) | Software Engineering | 2010
+| 07/31/2015 | [Toward Common Patterns for Distributed, Concurrent, Fault-Tolerant Code](http://rstutsman.github.io/papers/stutsman-dcft-hotos13.pdf) | Distributed Systems | 2013
